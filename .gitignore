@@ -1,0 +1,6 @@
+# ignore .DS_Store
+.DS_Store
+
+# protect secrets
+secrets/*
+!secrets/README.md
